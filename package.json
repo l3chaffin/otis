@@ -1,0 +1,16 @@
+{
+  "name": "otis",
+  "version": "2.0.0",
+  "description": "i made thie to avoid paying for mee6 premium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lance Chaffin",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.3.1",
+    "random": "^2.2.0"
+  }
+}
